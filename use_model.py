@@ -7,7 +7,7 @@ import tensorflow as tf
 import utils
 
 # Загрузка натренированной модели
-model = utils.load_model("trained_model_epochs-20_rate-0.0309_loss-0.09_acc-0.112.keras")
+model = tf.keras.models.load_model("trained_model_epochs-5_rate-0.001_loss-0.098_acc-0.976.keras")
 
 # Загрузка изображения
 test_image = 255 - cv2.imread("5.png", cv2.IMREAD_GRAYSCALE)  # Загружаем в оттенках серого

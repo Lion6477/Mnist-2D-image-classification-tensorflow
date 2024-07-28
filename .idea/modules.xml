@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Mnist 2D image classification tensorflow.iml" filepath="$PROJECT_DIR$/.idea/Mnist 2D image classification tensorflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Mnist_2D_image_classification_tensorflow.iml" filepath="$PROJECT_DIR$/.idea/Mnist_2D_image_classification_tensorflow.iml" />
     </modules>
   </component>
 </project>
